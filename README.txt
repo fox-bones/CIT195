@@ -1,0 +1,1 @@
+This repository is a collection of assignments for the program development course at NMC
