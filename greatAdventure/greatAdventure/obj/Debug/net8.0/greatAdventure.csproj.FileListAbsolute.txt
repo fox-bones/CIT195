@@ -1,0 +1,14 @@
+D:\Program Development CIT195\greatAdventure\greatAdventure\bin\Debug\net8.0\greatAdventure.exe
+D:\Program Development CIT195\greatAdventure\greatAdventure\bin\Debug\net8.0\greatAdventure.deps.json
+D:\Program Development CIT195\greatAdventure\greatAdventure\bin\Debug\net8.0\greatAdventure.runtimeconfig.json
+D:\Program Development CIT195\greatAdventure\greatAdventure\bin\Debug\net8.0\greatAdventure.dll
+D:\Program Development CIT195\greatAdventure\greatAdventure\bin\Debug\net8.0\greatAdventure.pdb
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\greatAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\greatAdventure.AssemblyInfoInputs.cache
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\greatAdventure.AssemblyInfo.cs
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\greatAdventure.csproj.CoreCompileInputs.cache
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\greatAdventure.dll
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\refint\greatAdventure.dll
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\greatAdventure.pdb
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\greatAdventure.genruntimeconfig.cache
+D:\Program Development CIT195\greatAdventure\greatAdventure\obj\Debug\net8.0\ref\greatAdventure.dll
