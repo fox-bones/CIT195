@@ -1,0 +1,4 @@
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net6.0\mathMagic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net6.0\mathMagic.AssemblyInfoInputs.cache
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net6.0\mathMagic.AssemblyInfo.cs
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net6.0\mathMagic.csproj.CoreCompileInputs.cache

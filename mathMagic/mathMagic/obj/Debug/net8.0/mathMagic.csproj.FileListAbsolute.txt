@@ -1,0 +1,14 @@
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\mathMagic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\mathMagic.AssemblyInfoInputs.cache
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\mathMagic.AssemblyInfo.cs
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\mathMagic.csproj.CoreCompileInputs.cache
+D:\Program Development CIT195\mathMagic\mathMagic\bin\Debug\net8.0\mathMagic.exe
+D:\Program Development CIT195\mathMagic\mathMagic\bin\Debug\net8.0\mathMagic.deps.json
+D:\Program Development CIT195\mathMagic\mathMagic\bin\Debug\net8.0\mathMagic.runtimeconfig.json
+D:\Program Development CIT195\mathMagic\mathMagic\bin\Debug\net8.0\mathMagic.dll
+D:\Program Development CIT195\mathMagic\mathMagic\bin\Debug\net8.0\mathMagic.pdb
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\mathMagic.dll
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\refint\mathMagic.dll
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\mathMagic.pdb
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\mathMagic.genruntimeconfig.cache
+D:\Program Development CIT195\mathMagic\mathMagic\obj\Debug\net8.0\ref\mathMagic.dll
