@@ -1,0 +1,14 @@
+D:\Program Development CIT195\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.exe
+D:\Program Development CIT195\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.deps.json
+D:\Program Development CIT195\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.runtimeconfig.json
+D:\Program Development CIT195\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.dll
+D:\Program Development CIT195\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.pdb
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.AssemblyInfoInputs.cache
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.AssemblyInfo.cs
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.csproj.CoreCompileInputs.cache
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.dll
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\refint\tempConverter.dll
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.pdb
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.genruntimeconfig.cache
+D:\Program Development CIT195\tempConverter\tempConverter\obj\Debug\net8.0\ref\tempConverter.dll
