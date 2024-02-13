@@ -1,0 +1,15 @@
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.exe
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.deps.json
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.runtimeconfig.json
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.dll
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.pdb
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.AssemblyInfoInputs.cache
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.AssemblyInfo.cs
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.csproj.CoreCompileInputs.cache
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.sourcelink.json
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.dll
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\refint\FunWithMusic.dll
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.pdb
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.genruntimeconfig.cache
+C:\Repos\CIT195\FunWithMusic\FunWithMusic\obj\Debug\net8.0\ref\FunWithMusic.dll
