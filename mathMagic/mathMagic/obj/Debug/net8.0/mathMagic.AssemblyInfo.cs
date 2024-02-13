@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mathMagic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca3eaa37033381b8a51bb4d1cce5ffdf33feade")]
 [assembly: System.Reflection.AssemblyProductAttribute("mathMagic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mathMagic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Development CIT195\\mathMagic\\mathMagic\\mathMagic.csproj",
+      "projectUniqueName": "C:\\Repos\\CIT195\\mathMagic\\mathMagic\\mathMagic.csproj",
       "projectName": "mathMagic",
-      "projectPath": "D:\\Program Development CIT195\\mathMagic\\mathMagic\\mathMagic.csproj",
+      "projectPath": "C:\\Repos\\CIT195\\mathMagic\\mathMagic\\mathMagic.csproj",
       "packagesPath": "C:\\Users\\cayce\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Development CIT195\\mathMagic\\mathMagic\\obj\\",
+      "outputPath": "C:\\Repos\\CIT195\\mathMagic\\mathMagic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
