@@ -9,3 +9,4 @@ bookStore - book store inventory tool
 bookStoreWithCount - evolved bookStore with active counter
 funWithMusic - album inventory tool
 MusicArray - evolved album inventory using arrays
+myParams - generates a chosen number of random ints to an array, then adds/multiplies them
