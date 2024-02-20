@@ -1,0 +1,14 @@
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.exe
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.deps.json
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.runtimeconfig.json
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.dll
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.pdb
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.AssemblyInfoInputs.cache
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.AssemblyInfo.cs
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.csproj.CoreCompileInputs.cache
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.dll
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\refint\SimpleInheritance.dll
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.pdb
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.genruntimeconfig.cache
+D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\ref\SimpleInheritance.dll
