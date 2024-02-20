@@ -12,3 +12,18 @@ D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8
 D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.pdb
 D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.genruntimeconfig.cache
 D:\Program Development CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\ref\SimpleInheritance.dll
+D:\CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.exe
+D:\CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.deps.json
+D:\CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.runtimeconfig.json
+D:\CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.dll
+D:\CIT195\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.pdb
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.AssemblyInfoInputs.cache
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.AssemblyInfo.cs
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.csproj.CoreCompileInputs.cache
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.sourcelink.json
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.dll
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\refint\SimpleInheritance.dll
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.pdb
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.genruntimeconfig.cache
+D:\CIT195\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\ref\SimpleInheritance.dll

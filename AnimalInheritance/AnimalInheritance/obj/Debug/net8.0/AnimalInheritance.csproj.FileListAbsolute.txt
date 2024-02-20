@@ -1,0 +1,15 @@
+D:\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.exe
+D:\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.deps.json
+D:\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.runtimeconfig.json
+D:\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.dll
+D:\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.pdb
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.AssemblyInfoInputs.cache
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.AssemblyInfo.cs
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.sourcelink.json
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.dll
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\refint\AnimalInheritance.dll
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.pdb
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.genruntimeconfig.cache
+D:\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\ref\AnimalInheritance.dll

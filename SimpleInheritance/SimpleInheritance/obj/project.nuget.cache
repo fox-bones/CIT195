@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BVfqh3r4Z04dilQVMyglpSUrjf95u/fRVYKRmgsm1cV3lR3b2IrZ+y/tK6bAaGJOZL8PR5/VMCwzDSia+87O7Q==",
+  "dgSpecHash": "kb5ZpGjqamXf1y5A2kJ9h4lI/zMJewc18co07k+tyP4djMytu5+ycuZpudJaZ9/QRF8HIjHaFSbBcMtIpBHpSA==",
   "success": true,
-  "projectFilePath": "D:\\Program Development CIT195\\SimpleInheritance\\SimpleInheritance\\SimpleInheritance.csproj",
+  "projectFilePath": "D:\\CIT195\\SimpleInheritance\\SimpleInheritance\\SimpleInheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
