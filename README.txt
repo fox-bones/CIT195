@@ -10,3 +10,4 @@ bookStoreWithCount - evolved bookStore with active counter
 funWithMusic - album inventory tool
 MusicArray - evolved album inventory using arrays
 myParams - generates a chosen number of random ints to an array, then adds/multiplies them
+SimpleInheritance - uses a base class to derive new classes, such as Dog() from a base Animal() class
