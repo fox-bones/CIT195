@@ -1,0 +1,15 @@
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.exe
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.deps.json
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.runtimeconfig.json
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.dll
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.pdb
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.AssemblyInfoInputs.cache
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.AssemblyInfo.cs
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.csproj.CoreCompileInputs.cache
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.sourcelink.json
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.dll
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\refint\ProtectedMultipleObjects.dll
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.pdb
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.genruntimeconfig.cache
+D:\CIT195\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ref\ProtectedMultipleObjects.dll
