@@ -1,0 +1,15 @@
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.exe
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.deps.json
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.runtimeconfig.json
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.dll
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.pdb
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.AssemblyInfoInputs.cache
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.AssemblyInfo.cs
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.csproj.CoreCompileInputs.cache
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.sourcelink.json
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.dll
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\refint\AbstractAnimalClass.dll
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.pdb
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.genruntimeconfig.cache
+D:\CIT195\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\ref\AbstractAnimalClass.dll
