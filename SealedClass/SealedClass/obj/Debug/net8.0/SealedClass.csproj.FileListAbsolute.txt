@@ -1,0 +1,15 @@
+D:\CIT195\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.exe
+D:\CIT195\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.deps.json
+D:\CIT195\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.runtimeconfig.json
+D:\CIT195\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.dll
+D:\CIT195\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.pdb
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.AssemblyInfoInputs.cache
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.AssemblyInfo.cs
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.csproj.CoreCompileInputs.cache
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.sourcelink.json
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.dll
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\refint\SealedClass.dll
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.pdb
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.genruntimeconfig.cache
+D:\CIT195\SealedClass\SealedClass\obj\Debug\net8.0\ref\SealedClass.dll
