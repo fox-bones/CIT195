@@ -13,6 +13,7 @@ namespace MusicClub
     {
         class BandMember : IClub
         {
+            public int Id { get; set; }
             public string Name { get; set; }
             public int Age { get; set; }
             public string Instrument {  get; set; }
@@ -36,16 +37,27 @@ namespace MusicClub
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Band members: ");
+            Console.WriteLine("How many members are you adding?");
+            int InputAmount = int.Parse(Console.ReadLine());
+            var members = new List<BandMember>();
+            for (int i = 0; i < InputAmount; i++)
+            {
+                members.Add(new BandMember());
+            }
+            for (int i = 0; i < members.Count; i++)
+            {
+                Console.WriteLine("Enter member " + (i + 1) + "'s name: ");
+                members[i].Name = Console.ReadLine();
+                Console.WriteLine("Enter member " + (i + 1) + "'s age: ");
+                members[i].Age = int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter member " + (i + 1) + "'s instrument: ");
+                members[i].Instrument = Console.ReadLine();
+            }
             Console.WriteLine();
-            BandMember stacy = new BandMember("Stacy", 28, "Vocals");
-            BandMember ed = new BandMember("Ed", 35, "Guitar");
-            BandMember chris = new BandMember("Chris", 22, "Bass");
-            BandMember aaron = new BandMember("Aaron", 31, "Keys");
-            stacy.Relay();
-            ed.Relay();
-            chris.Relay();
-            aaron.Relay();
+            for (int i = 0; i < members.Count; i++)
+            {
+                members[i].Relay();
+            }
         }
     }
 }
