@@ -1,0 +1,15 @@
+D:\CIT195\MusicClub\MusicClub\bin\Debug\net8.0\MusicClub.exe
+D:\CIT195\MusicClub\MusicClub\bin\Debug\net8.0\MusicClub.deps.json
+D:\CIT195\MusicClub\MusicClub\bin\Debug\net8.0\MusicClub.runtimeconfig.json
+D:\CIT195\MusicClub\MusicClub\bin\Debug\net8.0\MusicClub.dll
+D:\CIT195\MusicClub\MusicClub\bin\Debug\net8.0\MusicClub.pdb
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\MusicClub.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\MusicClub.AssemblyInfoInputs.cache
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\MusicClub.AssemblyInfo.cs
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\MusicClub.csproj.CoreCompileInputs.cache
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\MusicClub.sourcelink.json
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\MusicClub.dll
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\refint\MusicClub.dll
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\MusicClub.pdb
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\MusicClub.genruntimeconfig.cache
+D:\CIT195\MusicClub\MusicClub\obj\Debug\net8.0\ref\MusicClub.dll
