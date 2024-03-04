@@ -1,0 +1,15 @@
+C:\Repos\CIT195\immutableID\immutableID\bin\Debug\net8.0\immutableID.exe
+C:\Repos\CIT195\immutableID\immutableID\bin\Debug\net8.0\immutableID.deps.json
+C:\Repos\CIT195\immutableID\immutableID\bin\Debug\net8.0\immutableID.runtimeconfig.json
+C:\Repos\CIT195\immutableID\immutableID\bin\Debug\net8.0\immutableID.dll
+C:\Repos\CIT195\immutableID\immutableID\bin\Debug\net8.0\immutableID.pdb
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\immutableID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\immutableID.AssemblyInfoInputs.cache
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\immutableID.AssemblyInfo.cs
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\immutableID.csproj.CoreCompileInputs.cache
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\immutableID.sourcelink.json
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\immutableID.dll
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\refint\immutableID.dll
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\immutableID.pdb
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\immutableID.genruntimeconfig.cache
+C:\Repos\CIT195\immutableID\immutableID\obj\Debug\net8.0\ref\immutableID.dll
