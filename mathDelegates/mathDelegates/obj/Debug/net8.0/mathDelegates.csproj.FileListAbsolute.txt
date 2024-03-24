@@ -1,0 +1,15 @@
+D:\CIT195\mathDelegates\mathDelegates\bin\Debug\net8.0\mathDelegates.exe
+D:\CIT195\mathDelegates\mathDelegates\bin\Debug\net8.0\mathDelegates.deps.json
+D:\CIT195\mathDelegates\mathDelegates\bin\Debug\net8.0\mathDelegates.runtimeconfig.json
+D:\CIT195\mathDelegates\mathDelegates\bin\Debug\net8.0\mathDelegates.dll
+D:\CIT195\mathDelegates\mathDelegates\bin\Debug\net8.0\mathDelegates.pdb
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\mathDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\mathDelegates.AssemblyInfoInputs.cache
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\mathDelegates.AssemblyInfo.cs
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\mathDelegates.csproj.CoreCompileInputs.cache
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\mathDelegates.sourcelink.json
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\mathDelegates.dll
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\refint\mathDelegates.dll
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\mathDelegates.pdb
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\mathDelegates.genruntimeconfig.cache
+D:\CIT195\mathDelegates\mathDelegates\obj\Debug\net8.0\ref\mathDelegates.dll

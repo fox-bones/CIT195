@@ -1,0 +1,15 @@
+D:\CIT195\famousPeople\famousPeople\bin\Debug\net8.0\famousPeople.exe
+D:\CIT195\famousPeople\famousPeople\bin\Debug\net8.0\famousPeople.deps.json
+D:\CIT195\famousPeople\famousPeople\bin\Debug\net8.0\famousPeople.runtimeconfig.json
+D:\CIT195\famousPeople\famousPeople\bin\Debug\net8.0\famousPeople.dll
+D:\CIT195\famousPeople\famousPeople\bin\Debug\net8.0\famousPeople.pdb
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\famousPeople.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\famousPeople.AssemblyInfoInputs.cache
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\famousPeople.AssemblyInfo.cs
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\famousPeople.csproj.CoreCompileInputs.cache
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\famousPeople.sourcelink.json
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\famousPeople.dll
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\refint\famousPeople.dll
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\famousPeople.pdb
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\famousPeople.genruntimeconfig.cache
+D:\CIT195\famousPeople\famousPeople\obj\Debug\net8.0\ref\famousPeople.dll

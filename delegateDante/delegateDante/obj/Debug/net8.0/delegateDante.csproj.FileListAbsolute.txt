@@ -1,0 +1,15 @@
+D:\CIT195\delegateDante\delegateDante\bin\Debug\net8.0\delegateDante.exe
+D:\CIT195\delegateDante\delegateDante\bin\Debug\net8.0\delegateDante.deps.json
+D:\CIT195\delegateDante\delegateDante\bin\Debug\net8.0\delegateDante.runtimeconfig.json
+D:\CIT195\delegateDante\delegateDante\bin\Debug\net8.0\delegateDante.dll
+D:\CIT195\delegateDante\delegateDante\bin\Debug\net8.0\delegateDante.pdb
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\delegateDante.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\delegateDante.AssemblyInfoInputs.cache
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\delegateDante.AssemblyInfo.cs
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\delegateDante.csproj.CoreCompileInputs.cache
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\delegateDante.sourcelink.json
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\delegateDante.dll
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\refint\delegateDante.dll
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\delegateDante.pdb
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\delegateDante.genruntimeconfig.cache
+D:\CIT195\delegateDante\delegateDante\obj\Debug\net8.0\ref\delegateDante.dll
