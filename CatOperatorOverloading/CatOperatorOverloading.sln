@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatOperatorOverloading", "CatOperatorOverloading\CatOperatorOverloading.csproj", "{7A49B8F2-24EF-4D80-B9BD-D7B3CDA388EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A49B8F2-24EF-4D80-B9BD-D7B3CDA388EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A49B8F2-24EF-4D80-B9BD-D7B3CDA388EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A49B8F2-24EF-4D80-B9BD-D7B3CDA388EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A49B8F2-24EF-4D80-B9BD-D7B3CDA388EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7273E8C-0BA7-44B4-9B1C-E8A639673182}
+	EndGlobalSection
+EndGlobal
