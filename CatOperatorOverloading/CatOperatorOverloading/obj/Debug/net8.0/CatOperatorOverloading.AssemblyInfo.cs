@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatOperatorOverloading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+797f5a6b1aef0176e944087fb9f28e401bf7f41c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e82e1496504e48d4619757972221617464d3edb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatOperatorOverloading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatOperatorOverloading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
