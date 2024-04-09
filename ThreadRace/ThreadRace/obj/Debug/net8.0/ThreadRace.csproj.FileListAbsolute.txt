@@ -1,0 +1,15 @@
+D:\CIT195\ThreadRace\ThreadRace\bin\Debug\net8.0\ThreadRace.exe
+D:\CIT195\ThreadRace\ThreadRace\bin\Debug\net8.0\ThreadRace.deps.json
+D:\CIT195\ThreadRace\ThreadRace\bin\Debug\net8.0\ThreadRace.runtimeconfig.json
+D:\CIT195\ThreadRace\ThreadRace\bin\Debug\net8.0\ThreadRace.dll
+D:\CIT195\ThreadRace\ThreadRace\bin\Debug\net8.0\ThreadRace.pdb
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ThreadRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ThreadRace.AssemblyInfoInputs.cache
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ThreadRace.AssemblyInfo.cs
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ThreadRace.csproj.CoreCompileInputs.cache
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ThreadRace.sourcelink.json
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ThreadRace.dll
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\refint\ThreadRace.dll
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ThreadRace.pdb
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ThreadRace.genruntimeconfig.cache
+D:\CIT195\ThreadRace\ThreadRace\obj\Debug\net8.0\ref\ThreadRace.dll
