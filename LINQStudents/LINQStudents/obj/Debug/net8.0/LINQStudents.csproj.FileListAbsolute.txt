@@ -1,0 +1,15 @@
+D:\CIT195\LINQStudents\LINQStudents\bin\Debug\net8.0\LINQStudents.exe
+D:\CIT195\LINQStudents\LINQStudents\bin\Debug\net8.0\LINQStudents.deps.json
+D:\CIT195\LINQStudents\LINQStudents\bin\Debug\net8.0\LINQStudents.runtimeconfig.json
+D:\CIT195\LINQStudents\LINQStudents\bin\Debug\net8.0\LINQStudents.dll
+D:\CIT195\LINQStudents\LINQStudents\bin\Debug\net8.0\LINQStudents.pdb
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\LINQStudents.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\LINQStudents.AssemblyInfoInputs.cache
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\LINQStudents.AssemblyInfo.cs
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\LINQStudents.csproj.CoreCompileInputs.cache
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\LINQStudents.sourcelink.json
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\LINQStudents.dll
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\refint\LINQStudents.dll
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\LINQStudents.pdb
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\LINQStudents.genruntimeconfig.cache
+D:\CIT195\LINQStudents\LINQStudents\obj\Debug\net8.0\ref\LINQStudents.dll

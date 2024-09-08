@@ -1,0 +1,15 @@
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\bin\Debug\net8.0\CatOperatorOverloading.exe
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\bin\Debug\net8.0\CatOperatorOverloading.deps.json
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\bin\Debug\net8.0\CatOperatorOverloading.runtimeconfig.json
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\bin\Debug\net8.0\CatOperatorOverloading.dll
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\bin\Debug\net8.0\CatOperatorOverloading.pdb
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\CatOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\CatOperatorOverloading.AssemblyInfoInputs.cache
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\CatOperatorOverloading.AssemblyInfo.cs
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\CatOperatorOverloading.csproj.CoreCompileInputs.cache
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\CatOperatorOverloading.sourcelink.json
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\CatOperatorOverloading.dll
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\refint\CatOperatorOverloading.dll
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\CatOperatorOverloading.pdb
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\CatOperatorOverloading.genruntimeconfig.cache
+D:\CIT195\CatOperatorOverloading\CatOperatorOverloading\obj\Debug\net8.0\ref\CatOperatorOverloading.dll

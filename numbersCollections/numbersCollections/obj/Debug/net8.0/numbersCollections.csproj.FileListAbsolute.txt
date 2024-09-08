@@ -1,0 +1,15 @@
+D:\CIT195\numbersCollections\numbersCollections\bin\Debug\net8.0\numbersCollections.exe
+D:\CIT195\numbersCollections\numbersCollections\bin\Debug\net8.0\numbersCollections.deps.json
+D:\CIT195\numbersCollections\numbersCollections\bin\Debug\net8.0\numbersCollections.runtimeconfig.json
+D:\CIT195\numbersCollections\numbersCollections\bin\Debug\net8.0\numbersCollections.dll
+D:\CIT195\numbersCollections\numbersCollections\bin\Debug\net8.0\numbersCollections.pdb
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\numbersCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\numbersCollections.AssemblyInfoInputs.cache
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\numbersCollections.AssemblyInfo.cs
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\numbersCollections.csproj.CoreCompileInputs.cache
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\numbersCollections.sourcelink.json
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\numbersCollections.dll
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\refint\numbersCollections.dll
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\numbersCollections.pdb
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\numbersCollections.genruntimeconfig.cache
+D:\CIT195\numbersCollections\numbersCollections\obj\Debug\net8.0\ref\numbersCollections.dll

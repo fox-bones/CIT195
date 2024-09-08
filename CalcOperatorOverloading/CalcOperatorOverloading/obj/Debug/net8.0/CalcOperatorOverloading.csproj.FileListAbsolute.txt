@@ -1,0 +1,15 @@
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\bin\Debug\net8.0\CalcOperatorOverloading.exe
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\bin\Debug\net8.0\CalcOperatorOverloading.deps.json
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\bin\Debug\net8.0\CalcOperatorOverloading.runtimeconfig.json
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\bin\Debug\net8.0\CalcOperatorOverloading.dll
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\bin\Debug\net8.0\CalcOperatorOverloading.pdb
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\CalcOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\CalcOperatorOverloading.AssemblyInfoInputs.cache
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\CalcOperatorOverloading.AssemblyInfo.cs
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\CalcOperatorOverloading.csproj.CoreCompileInputs.cache
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\CalcOperatorOverloading.sourcelink.json
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\CalcOperatorOverloading.dll
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\refint\CalcOperatorOverloading.dll
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\CalcOperatorOverloading.pdb
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\CalcOperatorOverloading.genruntimeconfig.cache
+D:\CIT195\CalcOperatorOverloading\CalcOperatorOverloading\obj\Debug\net8.0\ref\CalcOperatorOverloading.dll

@@ -1,0 +1,15 @@
+D:\CIT195\AsyncAndWait\AsyncAndWait\bin\Debug\net8.0\AsyncAndWait.exe
+D:\CIT195\AsyncAndWait\AsyncAndWait\bin\Debug\net8.0\AsyncAndWait.deps.json
+D:\CIT195\AsyncAndWait\AsyncAndWait\bin\Debug\net8.0\AsyncAndWait.runtimeconfig.json
+D:\CIT195\AsyncAndWait\AsyncAndWait\bin\Debug\net8.0\AsyncAndWait.dll
+D:\CIT195\AsyncAndWait\AsyncAndWait\bin\Debug\net8.0\AsyncAndWait.pdb
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\AsyncAndWait.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\AsyncAndWait.AssemblyInfoInputs.cache
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\AsyncAndWait.AssemblyInfo.cs
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\AsyncAndWait.csproj.CoreCompileInputs.cache
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\AsyncAndWait.sourcelink.json
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\AsyncAndWait.dll
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\refint\AsyncAndWait.dll
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\AsyncAndWait.pdb
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\AsyncAndWait.genruntimeconfig.cache
+D:\CIT195\AsyncAndWait\AsyncAndWait\obj\Debug\net8.0\ref\AsyncAndWait.dll

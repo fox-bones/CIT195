@@ -1,0 +1,15 @@
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.exe
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.deps.json
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.runtimeconfig.json
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.dll
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.pdb
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.AssemblyInfoInputs.cache
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.AssemblyInfo.cs
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.csproj.CoreCompileInputs.cache
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.sourcelink.json
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.dll
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\refint\GenericAnimalClass.dll
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.pdb
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.genruntimeconfig.cache
+D:\CIT195\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\ref\GenericAnimalClass.dll

@@ -1,0 +1,15 @@
+D:\CIT195\delegatesEvents\delegatesEvents\bin\Debug\net8.0\delegatesEvents.exe
+D:\CIT195\delegatesEvents\delegatesEvents\bin\Debug\net8.0\delegatesEvents.deps.json
+D:\CIT195\delegatesEvents\delegatesEvents\bin\Debug\net8.0\delegatesEvents.runtimeconfig.json
+D:\CIT195\delegatesEvents\delegatesEvents\bin\Debug\net8.0\delegatesEvents.dll
+D:\CIT195\delegatesEvents\delegatesEvents\bin\Debug\net8.0\delegatesEvents.pdb
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\delegatesEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\delegatesEvents.AssemblyInfoInputs.cache
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\delegatesEvents.AssemblyInfo.cs
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\delegatesEvents.csproj.CoreCompileInputs.cache
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\delegatesEvents.sourcelink.json
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\delegatesEvents.dll
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\refint\delegatesEvents.dll
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\delegatesEvents.pdb
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\delegatesEvents.genruntimeconfig.cache
+D:\CIT195\delegatesEvents\delegatesEvents\obj\Debug\net8.0\ref\delegatesEvents.dll

@@ -1,0 +1,15 @@
+D:\CIT195\taskRace\taskRace\bin\Debug\net8.0\taskRace.exe
+D:\CIT195\taskRace\taskRace\bin\Debug\net8.0\taskRace.deps.json
+D:\CIT195\taskRace\taskRace\bin\Debug\net8.0\taskRace.runtimeconfig.json
+D:\CIT195\taskRace\taskRace\bin\Debug\net8.0\taskRace.dll
+D:\CIT195\taskRace\taskRace\bin\Debug\net8.0\taskRace.pdb
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\taskRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\taskRace.AssemblyInfoInputs.cache
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\taskRace.AssemblyInfo.cs
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\taskRace.csproj.CoreCompileInputs.cache
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\taskRace.sourcelink.json
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\taskRace.dll
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\refint\taskRace.dll
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\taskRace.pdb
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\taskRace.genruntimeconfig.cache
+D:\CIT195\taskRace\taskRace\obj\Debug\net8.0\ref\taskRace.dll

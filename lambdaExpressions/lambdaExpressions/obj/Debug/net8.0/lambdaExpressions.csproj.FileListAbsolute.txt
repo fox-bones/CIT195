@@ -1,0 +1,15 @@
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.AssemblyInfoInputs.cache
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.AssemblyInfo.cs
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.csproj.CoreCompileInputs.cache
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.sourcelink.json
+D:\CIT195\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.exe
+D:\CIT195\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.deps.json
+D:\CIT195\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.runtimeconfig.json
+D:\CIT195\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.dll
+D:\CIT195\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.pdb
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.dll
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\refint\lambdaExpressions.dll
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.pdb
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.genruntimeconfig.cache
+D:\CIT195\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\ref\lambdaExpressions.dll

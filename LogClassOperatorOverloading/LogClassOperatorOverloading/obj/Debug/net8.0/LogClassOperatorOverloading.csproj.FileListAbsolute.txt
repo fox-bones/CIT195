@@ -1,0 +1,15 @@
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\bin\Debug\net8.0\LogClassOperatorOverloading.exe
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\bin\Debug\net8.0\LogClassOperatorOverloading.deps.json
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\bin\Debug\net8.0\LogClassOperatorOverloading.runtimeconfig.json
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\bin\Debug\net8.0\LogClassOperatorOverloading.dll
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\bin\Debug\net8.0\LogClassOperatorOverloading.pdb
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\LogClassOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\LogClassOperatorOverloading.AssemblyInfoInputs.cache
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\LogClassOperatorOverloading.AssemblyInfo.cs
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\LogClassOperatorOverloading.csproj.CoreCompileInputs.cache
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\LogClassOperatorOverloading.sourcelink.json
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\LogClassOperatorOverloading.dll
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\refint\LogClassOperatorOverloading.dll
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\LogClassOperatorOverloading.pdb
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\LogClassOperatorOverloading.genruntimeconfig.cache
+D:\CIT195\LogClassOperatorOverloading\LogClassOperatorOverloading\obj\Debug\net8.0\ref\LogClassOperatorOverloading.dll
